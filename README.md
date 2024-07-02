@@ -1,5 +1,5 @@
-# CarGameAndroid2
-Car game for task #2 in Android course, Afeka College of Engineering
+# GameDev-Android2
 
-Example Video: 
-https://drive.google.com/file/d/1JYYn9fw9jzYB174xeBzTxXpqGhJPX7_k/view?usp=sharing
+
+Example Video:
+https://drive.google.com/file/d/156A-hNBGhT6r-mmDBw7tDf0reTUdD0gv/view?usp=sharing
